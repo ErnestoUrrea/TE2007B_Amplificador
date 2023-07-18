@@ -20,4 +20,4 @@ El circuito se diseñó para cumplir con las siguientes especificaciones:
 ![Diagrama esquemático del amplificador]()
 
 ## Vista 3D
-![Vista 3D del PCB del amplificador ensamblado]()
+![Vista 3D del PCB del amplificador ensamblado](https://github.com/ErnestoUrrea/TE2007B_Amplificador/blob/main/Amplificador_3DView.png?raw=true)
